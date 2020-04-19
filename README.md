@@ -1,0 +1,2 @@
+# study_interview_python
+本仓库用于历次Python面试经历的所有题目
